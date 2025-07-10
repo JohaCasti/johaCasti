@@ -6,7 +6,7 @@
 - HTML, CSS, Sass, JavaScript
 - Python (Flask, Django)
 - PHP, SQL, MySQL, React
-- GitHub, Web Scraping, 🌱TypeScript, 🌱NoSQL
+- GitHub, Web Scraping, TypeScript 🌱, NoSQL 🌱
 
 🧠 Actualmente aprendiendo sobre Ciberseguridad 🔐
 
