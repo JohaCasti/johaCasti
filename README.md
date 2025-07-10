@@ -1,16 +1,28 @@
-## Hi there 👋
+### 👋 Hola, soy Johan Castillo
 
-<!--
-**JohaCasti/johaCasti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Técnico en Desarrollo de Software con más de 3 años de experiencia en desarrollo web (Fullstack), con especial interés en el backend.
 
-Here are some ideas to get you started:
+🔧 **Tegnologias**:
+- HTML, CSS, Sass, JavaScript
+- Python (Flask, Django)
+- PHP, SQL, MySQL, React
+- GitHub, Web Scraping, 🌱TypeScript, 🌱NoSQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 Actualmente aprendiendo sobre Ciberseguridad 🔐
+
+🚀 Apasionado por el desarrollo backend y la creación de soluciones funcionales, seguras y escalables.
+
+💼 Buscando nuevos retos como **Desarrollador Backend** o **Fullstack Developer**
+
+📌  **Bogota - Colombia**
+
+🌱 Siempre aprendiendo y creciendo como desarrollador
+
+---
+
+### 📫 Contacto
+
+[![Gmail Badge](https://img.shields.io/badge/-johanncastillo92@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:johanncastillo92@gmail.com)](mailto:johanncastillo92@gmail.com)  
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/johancastillo-fullstack/)](https://www.linkedin.com/in/johancastillo-fullstack/)  
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-24292e?style=flat-square&logo=github&logoColor=white&link=https://github.com/JohaCasti)](https://github.com/JohaCasti)  
+<!-- [![Website Badge](https://img.shields.io/badge/-Portafolio-0e76a8?style=flat-square&logo=Google-Chrome&logoColor=white&link=https://jhcastillo.dev)](https://jhcastillo.dev) -->
